@@ -1,3 +1,5 @@
+//ds18b20+nokia5110lcd 
+
 //PinOut 
 //From LCD to Arduino 
 //VCC to 3.3v (better contrast) 
